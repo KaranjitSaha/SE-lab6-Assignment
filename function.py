@@ -10,4 +10,4 @@ def absolute_value(num):
         return -num
 
 
-# print(absolute_value(-20))
+print(absolute_value(-20))
